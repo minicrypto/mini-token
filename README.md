@@ -4,12 +4,12 @@
 -->
 
 <a href="https://mini-token.com">
-  <img src="https://github.com/minicrypto/mini-token/blob/master/Resources/mini-logo.png?raw=true" width="215px" align="right" />
+  <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/867829b6-377c-4839-b70f-a846b13ebfaf" />
 </a>
 
 <h3>
   <a href="https://mini-token.com">
-    <img src="https://github.com/minicrypto/mini-token/blob/master/Resources/mini-banner.png?raw=true" width="430px" />
+    <img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/06180b27-21ba-43f0-9dc7-92b71fe15c57" />
   </a>
   <h3>
    Revolutionary quantum-entangled, centralized cryptocurrency leveraging IoT devices, Big Data warehousing, and silicon sharding for eco-friendly mining on smart fridges, routers, Raspberry Pis, Arduinos, and more.
